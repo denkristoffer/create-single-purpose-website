@@ -1,6 +1,8 @@
 # create-single-purpose-website
 
-A CLI tool to set up single-purpose website boilerplates. Installs:
+A CLI tool to set up single-purpose website boilerplates.
+
+Installs:
 - [next.js](https://nextjs.org)
 - [emotion](https://emotion.sh)
 
