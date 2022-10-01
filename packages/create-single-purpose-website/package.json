@@ -1,0 +1,18 @@
+{
+  "name": "create-single-purpose-website",
+  "version": "1.0.1",
+  "bin": "./index.mjs",
+  "engines": {
+    "node": ">=16"
+  },
+  "author": "denkristoffer",
+  "files": [
+    "index.mjs"
+  ],
+  "license": "MIT",
+  "repository": {
+    "directory": "packages/create-single-purpose-website",
+    "type": "git",
+    "url": "https://github.com/denkristoffer/create-single-purpose-website.git"
+  }
+}
